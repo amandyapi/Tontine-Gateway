@@ -1,0 +1,49 @@
+D:\Compressed download\TontineGateway\TontineGateway\bin\Debug\TontineGateway.dll
+D:\Compressed download\TontineGateway\TontineGateway\bin\Debug\TontineGateway.pdb
+D:\Compressed download\TontineGateway\TontineGateway\bin\Debug\Newtonsoft.Json.dll
+D:\Compressed download\TontineGateway\TontineGateway\bin\Debug\SDKGatewayLibrary.dll
+D:\Compressed download\TontineGateway\TontineGateway\bin\Debug\Newtonsoft.Json.xml
+D:\Compressed download\TontineGateway\TontineGateway\obj\Debug\TontineGateway.csproj.CoreCompileInputs.cache
+D:\Compressed download\TontineGateway\TontineGateway\obj\Debug\TontineGateway.csproj.CopyComplete
+D:\Compressed download\TontineGateway\TontineGateway\obj\Debug\TontineGateway.dll
+D:\Compressed download\TontineGateway\TontineGateway\obj\Debug\TontineGateway.pdb
+D:\Compressed download\TontineGateway\TontineGateway\obj\Debug\TontineGateway.csprojAssemblyReference.cache
+F:\Company\SK\Gateway Tontine\TontineGateway\TontineGateway\bin\Debug\TontineGateway.dll
+F:\Company\SK\Gateway Tontine\TontineGateway\TontineGateway\bin\Debug\TontineGateway.pdb
+F:\Company\SK\Gateway Tontine\TontineGateway\TontineGateway\bin\Debug\Newtonsoft.Json.dll
+F:\Company\SK\Gateway Tontine\TontineGateway\TontineGateway\bin\Debug\SDKGatewayLibrary.dll
+F:\Company\SK\Gateway Tontine\TontineGateway\TontineGateway\bin\Debug\Newtonsoft.Json.xml
+F:\Company\SK\Gateway Tontine\TontineGateway\TontineGateway\obj\Debug\TontineGateway.csprojAssemblyReference.cache
+F:\Company\SK\Gateway Tontine\TontineGateway\TontineGateway\obj\Debug\TontineGateway.csproj.CoreCompileInputs.cache
+F:\Company\SK\Gateway Tontine\TontineGateway\TontineGateway\obj\Debug\TontineGateway.csproj.CopyComplete
+F:\Company\SK\Gateway Tontine\TontineGateway\TontineGateway\obj\Debug\TontineGateway.dll
+F:\Company\SK\Gateway Tontine\TontineGateway\TontineGateway\obj\Debug\TontineGateway.pdb
+F:\Dev\SkDevRepos\tontinegateway\TontineGateway\bin\Debug\TontineGateway.dll
+F:\Dev\SkDevRepos\tontinegateway\TontineGateway\bin\Debug\TontineGateway.pdb
+F:\Dev\SkDevRepos\tontinegateway\TontineGateway\bin\Debug\Newtonsoft.Json.dll
+F:\Dev\SkDevRepos\tontinegateway\TontineGateway\bin\Debug\SDKGatewayLibrary.dll
+F:\Dev\SkDevRepos\tontinegateway\TontineGateway\bin\Debug\Newtonsoft.Json.xml
+F:\Dev\SkDevRepos\tontinegateway\TontineGateway\obj\Debug\TontineGateway.csprojAssemblyReference.cache
+F:\Dev\SkDevRepos\tontinegateway\TontineGateway\obj\Debug\TontineGateway.csproj.CoreCompileInputs.cache
+F:\Dev\SkDevRepos\tontinegateway\TontineGateway\obj\Debug\TontineGateway.csproj.CopyComplete
+F:\Dev\SkDevRepos\tontinegateway\TontineGateway\obj\Debug\TontineGateway.dll
+F:\Dev\SkDevRepos\tontinegateway\TontineGateway\obj\Debug\TontineGateway.pdb
+F:\SandBox\tontinegateway\TontineGateway\bin\Debug\TontineGateway.dll
+F:\SandBox\tontinegateway\TontineGateway\bin\Debug\TontineGateway.pdb
+F:\SandBox\tontinegateway\TontineGateway\bin\Debug\Newtonsoft.Json.dll
+F:\SandBox\tontinegateway\TontineGateway\bin\Debug\SDKGatewayLibrary.dll
+F:\SandBox\tontinegateway\TontineGateway\bin\Debug\Newtonsoft.Json.xml
+F:\SandBox\tontinegateway\TontineGateway\obj\Debug\TontineGateway.csproj.CoreCompileInputs.cache
+F:\SandBox\tontinegateway\TontineGateway\obj\Debug\TontineGateway.csproj.CopyComplete
+F:\SandBox\tontinegateway\TontineGateway\obj\Debug\TontineGateway.dll
+F:\SandBox\tontinegateway\TontineGateway\obj\Debug\TontineGateway.pdb
+F:\SandBox\tontinegateway\TontineGateway\obj\Debug\TontineGateway.csprojAssemblyReference.cache
+F:\Repository\tontinegateway\TontineGateway\bin\Debug\TontineGateway.dll
+F:\Repository\tontinegateway\TontineGateway\bin\Debug\TontineGateway.pdb
+F:\Repository\tontinegateway\TontineGateway\bin\Debug\Newtonsoft.Json.dll
+F:\Repository\tontinegateway\TontineGateway\bin\Debug\SDKGatewayLibrary.dll
+F:\Repository\tontinegateway\TontineGateway\bin\Debug\Newtonsoft.Json.xml
+F:\Repository\tontinegateway\TontineGateway\obj\Debug\TontineGateway.csproj.CoreCompileInputs.cache
+F:\Repository\tontinegateway\TontineGateway\obj\Debug\TontineGateway.csproj.CopyComplete
+F:\Repository\tontinegateway\TontineGateway\obj\Debug\TontineGateway.dll
+F:\Repository\tontinegateway\TontineGateway\obj\Debug\TontineGateway.pdb

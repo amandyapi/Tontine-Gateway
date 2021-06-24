@@ -1,0 +1,107 @@
+
+-----------------------------------------------------------------
+    [2021.06.23 12.21.33 : Event : eksrv(1)] 
+    
+    ------ SK - WELCOME TO SK TONTINE GATEWAY check Account -------
+    [2021.06.23 12.21.33 : Event : eksrv(1)] 
+    
+    -----------------------------------------------------------------
+    [2021.06.23 12.21.33 : Event : eksrv(1)] 
+    
+    
+    [2021.06.23 12.21.33 : Event : eksrv(1)] 
+    
+    Starting Check Account !!
+    [2021.06.23 12.21.33 : Event : eksrv(1)] 
+    
+    Clear context Vars
+    [2021.06.23 12.21.33 : Event : eksrv(1)] 
+    
+    Check Params start: 
+    [2021.06.23 12.21.33 : Event : eksrv(1)] 
+    
+    ParticipantId: 00000000-0000-0000-0000-000000000000
+    [2021.06.23 12.21.33 : Event : eksrv(1)] 
+    
+    AmountToReceive: 
+    [2021.06.23 12.21.33 : Event : eksrv(1)] 
+    
+    CheckAccount step 0001: Participant info
+    [2021.06.23 12.21.38 : Event : eksrv(1)] 
+    
+    Participant code is not null
+    [2021.06.23 12.21.38 : Event : eksrv(1)] 
+    
+    Participant code: OV27JQ447
+    [2021.06.23 12.21.39 : Event : eksrv(1)] 
+    
+    Tontine Name: Kattegat
+    [2021.06.23 12.21.39 : Event : eksrv(1)] 
+    
+    Participant Full Name: Anthony MARTIAL
+    [2021.06.23 12.21.39 : Event : eksrv(1)] 
+    
+    Contributions Amount: 1000
+    [2021.06.23 12.21.39 : Event : eksrv(1)] 
+    
+     CheckAccount End !!!
+    [2021.06.23 12.21.39 : Event : eksrv(1)] 
+    
+    
+    [2021.06.23 12.21.39 : Event : eksrv(1)] 
+    
+    ------------------------------------------------
+    [2021.06.23 12.21.39 : Event : eksrv(1)] 
+    
+    ------------ GOOD BY SK TONTINE GATEWAY --------
+    [2021.06.23 12.21.39 : Event : eksrv(1)] 
+    
+    ------------------------------------------------
+    [2021.06.23 12.21.39 : Event : eksrv(1)] 
+    
+    
+    [2021.06.23 12.22.02 : Event : eksrv(1)] 
+    
+    -----------------------------------------------------------------
+    [2021.06.23 12.22.02 : Event : eksrv(1)] 
+    
+    ------ SK - WELCOME TO SK TONTINE GATEWAY check Account -------
+    [2021.06.23 12.22.02 : Event : eksrv(1)] 
+    
+    -----------------------------------------------------------------
+    [2021.06.23 12.22.02 : Event : eksrv(1)] 
+    
+    
+    [2021.06.23 12.22.02 : Event : eksrv(1)] 
+    
+    Starting Check Account !!
+    [2021.06.23 12.22.02 : Event : eksrv(1)] 
+    
+    Clear context Vars
+    [2021.06.23 12.22.02 : Event : eksrv(1)] 
+    
+    Check Params start: 
+    [2021.06.23 12.22.02 : Event : eksrv(1)] 
+    
+    ParticipantId: e09f7b29-8b0c-4d4c-a6a5-0c7a16255d25
+    [2021.06.23 12.22.02 : Event : eksrv(1)] 
+    
+    AmountToReceive: 
+    [2021.06.23 12.22.02 : Event : eksrv(1)] 
+    
+    CheckAccount step 0002: Refund
+    [2021.06.23 12.22.02 : Event : eksrv(1)] 
+    
+    CheckAccount step 0002: Refund Info
+    [2021.06.23 12.22.02 : Event : eksrv(1)] 
+    
+    CheckAccount step 2: Participant Refund Info
+    [2021.06.23 12.22.02 : Event : eksrv(1)] 
+    
+    Order code: YAС5292
+    [2021.06.23 12.22.04 : Event : eksrv(1)] 
+    
+     Check account step 0002 error : System.Net.WebException: The remote server returned an error: (500) Internal Server Error.
+       at System.Net.HttpWebRequest.GetResponse()
+       at TontineGateway.WebRequestExtention.Execute[T](WebRequest request, Object body, String method) in F:\Repository\tontinegateway\TontineGateway\WebRequestExtention.cs:line 27
+       at TontineGateway.GatewayCore.CheckAccount(Context& context) in F:\Repository\tontinegateway\TontineGateway\GatewayCore.cs:line 247

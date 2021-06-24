@@ -1,3 +1,2 @@
-# tontine gateway
+# tontineGateway
 
-Tontine Gateway

@@ -1,0 +1,36 @@
+D:\Compressed download\TontineGateway\TontineConsoleTest\bin\Release\TontineConsoleTest.exe
+D:\Compressed download\TontineGateway\TontineConsoleTest\bin\Release\TontineConsoleTest.pdb
+D:\Compressed download\TontineGateway\TontineConsoleTest\bin\Release\SDKGatewayLibrary.dll
+D:\Compressed download\TontineGateway\TontineConsoleTest\bin\Release\TontineGateway.dll
+D:\Compressed download\TontineGateway\TontineConsoleTest\bin\Release\Newtonsoft.Json.dll
+D:\Compressed download\TontineGateway\TontineConsoleTest\bin\Release\TontineGateway.pdb
+D:\Compressed download\TontineGateway\TontineConsoleTest\bin\Release\Newtonsoft.Json.xml
+D:\Compressed download\TontineGateway\TontineConsoleTest\obj\Release\TontineConsoleTest.csprojAssemblyReference.cache
+D:\Compressed download\TontineGateway\TontineConsoleTest\obj\Release\TontineConsoleTest.csproj.CoreCompileInputs.cache
+D:\Compressed download\TontineGateway\TontineConsoleTest\obj\Release\TontineConsoleTest.csproj.CopyComplete
+D:\Compressed download\TontineGateway\TontineConsoleTest\obj\Release\TontineConsoleTest.exe
+D:\Compressed download\TontineGateway\TontineConsoleTest\obj\Release\TontineConsoleTest.pdb
+F:\Dev\SkDevRepos\tontinegateway\TontineConsoleTest\bin\Release\TontineConsoleTest.exe
+F:\Dev\SkDevRepos\tontinegateway\TontineConsoleTest\bin\Release\TontineConsoleTest.pdb
+F:\Dev\SkDevRepos\tontinegateway\TontineConsoleTest\bin\Release\SDKGatewayLibrary.dll
+F:\Dev\SkDevRepos\tontinegateway\TontineConsoleTest\bin\Release\TontineGateway.dll
+F:\Dev\SkDevRepos\tontinegateway\TontineConsoleTest\bin\Release\Newtonsoft.Json.dll
+F:\Dev\SkDevRepos\tontinegateway\TontineConsoleTest\bin\Release\TontineGateway.pdb
+F:\Dev\SkDevRepos\tontinegateway\TontineConsoleTest\bin\Release\Newtonsoft.Json.xml
+F:\Dev\SkDevRepos\tontinegateway\TontineConsoleTest\obj\Release\TontineConsoleTest.csprojAssemblyReference.cache
+F:\Dev\SkDevRepos\tontinegateway\TontineConsoleTest\obj\Release\TontineConsoleTest.csproj.CoreCompileInputs.cache
+F:\Dev\SkDevRepos\tontinegateway\TontineConsoleTest\obj\Release\TontineConsoleTest.csproj.CopyComplete
+F:\Dev\SkDevRepos\tontinegateway\TontineConsoleTest\obj\Release\TontineConsoleTest.exe
+F:\Dev\SkDevRepos\tontinegateway\TontineConsoleTest\obj\Release\TontineConsoleTest.pdb
+F:\Repository\tontinegateway\TontineConsoleTest\bin\Release\TontineConsoleTest.exe
+F:\Repository\tontinegateway\TontineConsoleTest\bin\Release\TontineConsoleTest.pdb
+F:\Repository\tontinegateway\TontineConsoleTest\bin\Release\SDKGatewayLibrary.dll
+F:\Repository\tontinegateway\TontineConsoleTest\bin\Release\TontineGateway.dll
+F:\Repository\tontinegateway\TontineConsoleTest\bin\Release\Newtonsoft.Json.dll
+F:\Repository\tontinegateway\TontineConsoleTest\bin\Release\TontineGateway.pdb
+F:\Repository\tontinegateway\TontineConsoleTest\bin\Release\Newtonsoft.Json.xml
+F:\Repository\tontinegateway\TontineConsoleTest\obj\Release\TontineConsoleTest.csprojAssemblyReference.cache
+F:\Repository\tontinegateway\TontineConsoleTest\obj\Release\TontineConsoleTest.csproj.CoreCompileInputs.cache
+F:\Repository\tontinegateway\TontineConsoleTest\obj\Release\TontineConsoleTest.csproj.CopyComplete
+F:\Repository\tontinegateway\TontineConsoleTest\obj\Release\TontineConsoleTest.exe
+F:\Repository\tontinegateway\TontineConsoleTest\obj\Release\TontineConsoleTest.pdb
